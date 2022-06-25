@@ -1,5 +1,0 @@
-easyocr
-numpy
-Pillow
-requests
-folium
