@@ -1,0 +1,10 @@
+streamlit
+easyocr
+numpy
+Pillow
+streamlit
+requests
+json
+webbrowser
+folium
+base64
