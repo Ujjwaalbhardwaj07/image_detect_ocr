@@ -1,7 +1,0 @@
-streamlit
-easyocr
-numpy
-Pillow
-requests
-webbrowser
-folium
