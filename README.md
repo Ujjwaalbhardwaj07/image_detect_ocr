@@ -1,7 +1,11 @@
-# image_detect_ocr
-
+*****************************************************************TEAM- WeInTech ********************************************
+***
 This is a sample App application made for HerHackathon Submission 2022. To run this in your system-as local host, you need to have python 3.8 version+.
 
+
+Other files for refrence,  github for backend: https://github.com/emymaria/hackathonbackend.git 
+                           github for frontend: https://github.com/miraybuy/herhackathon-basf-challenge : full repository is here
+                           
 
 *LOCAL HOST*
 
